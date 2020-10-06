@@ -1,10 +1,19 @@
 {
   "name": "confusionserver",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhnatly/serverside-nodeexpress.git"
+  },
+  "author": "Oguzhan Atalay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhnatly/serverside-nodeexpress/issues"
+  },
+  "homepage": "https://github.com/oguzhnatly/serverside-nodeexpress#readme",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
