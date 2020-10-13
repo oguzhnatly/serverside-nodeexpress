@@ -16,6 +16,7 @@
   "homepage": "https://github.com/oguzhnatly/serverside-nodeexpress#readme",
   "dependencies": {
     "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "express-session": "^1.15.6",
